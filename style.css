@@ -1,0 +1,13 @@
+P{
+    color: #ff0000;
+}
+#roxo{
+    color: rgb(54, 5, 94);
+}
+.vermelho{
+    color: burlywood;
+}
+  input{
+    border-color: transparent;
+    background: transparent;
+  }
